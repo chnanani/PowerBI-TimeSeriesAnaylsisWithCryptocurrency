@@ -18,18 +18,6 @@ The objective is to help analysts and traders **understand market movements, ass
 
 ---
 
-## 📁 Repository Structure
-│-- Cryptocurrency_Analysis.pbix
-│-- README.md
-│-- screenshots/
-│ ├── overview.png
-│ ├── volatility.png
-│ ├── strategy_performance.png
-│-- dataset/
-│ └── btcusd_data.csv
-
----
-
 ## 📂 Dataset Description
 The dataset contains historical cryptocurrency trading data with fields such as:
 - Date & Time (Unix Timestamp)
